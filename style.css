@@ -1,0 +1,75 @@
+.foo {
+  position: absolute;
+  width: 40px;
+  transition: all 0.4s
+}
+
+#f0 {
+  left: 380px;
+  top: 200px;
+}
+
+#f1 {
+  left: 460px;
+  top: 270px;
+}
+
+#f2 {
+  left: 580px;
+  top: 230px;
+}
+
+#f3 {
+  left: 680px;
+  top:200px;
+}
+
+
+#f4 {
+  left: 700px;
+  top:280px;
+}
+
+.chou {
+  position: absolute;
+  width: 80px;
+  transition: all 1.0s
+}
+
+#bt0 {
+  left: 150px;
+  top: 400px;
+}
+
+#bt1 {
+  left: 350px;
+  top: 350px;
+}
+
+#bt2 {
+  left: 550px;
+  top: 450px;
+}
+
+#backimg1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  pointer-events: none;
+}
+
+
+#message {
+  position: absolute;
+  width: 400px;
+  height: 60px;
+  left: 25px;
+  top: 40px;
+  background-color: #FFFFFF80;
+  color: #CC3C67;
+  padding: 6px;
+  font-size: 20px;
+  font-weight: bold;
+
+  pointer-events: none;
+}
